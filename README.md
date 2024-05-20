@@ -28,7 +28,8 @@ The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible 
 
  
 
-K88 Features
+K88 Features:
+
        	- 8x high impedance injector drivers  (with diagnostic indicator LEDs)
 	
        	- 8x 5v/12v coil pre-drivers for use with igniters/smart coils  (with diagnostic indicator LEDs)
