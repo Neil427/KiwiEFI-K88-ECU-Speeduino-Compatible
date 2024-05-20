@@ -1,18 +1,12 @@
 # KiwiEFI-K88-ECU-Speeduino-Compatible
 TEENSY3.5/3.6 BASED ECU USING SPEEDUINO FIRMWARE.
 
+![K88ecu](https://github.com/Neil427/KiwiEFI-K88-ECU-Speeduino-Compatible/assets/67580691/b6c15399-bfd3-4c67-b95c-0dc14941cbda)
+
 NOTE:	THESE FILES ARE FOR A ECU USING THE TEENSY3.5/3.6 MCU MODULE 
 	WHICH IS DISCONTINUED AND EXTREMELY DIFFICULT TO FIND.
 	DO NOT SPEND MONEY HAVING THIS BOARD MANUFACTURED UNTIL YOU 
 	FIRST PURCHASE THE TEENSTY MODULE!
-|
-|
-|
-|
-|
-|
-
-![K88ecu](https://github.com/Neil427/KiwiEFI-K88-ECU-Speeduino-Compatible/assets/67580691/b6c15399-bfd3-4c67-b95c-0dc14941cbda)
 
 
 The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible in software configuration with the Speeduino Dropbear Ecu with a few important enhancements:
