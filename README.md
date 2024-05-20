@@ -11,18 +11,18 @@ NOTE:	THESE FILES ARE FOR A ECU USING THE TEENSY3.5/3.6 MCU MODULE
 
 The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible in software configuration with the Speeduino Dropbear Ecu with a few enhancements:
 
-    • A 56-pin connector which allows the simultaneous use of stepper idle control and all of the digital outputs,
+    - A 56-pin connector which allows the simultaneous use of stepper idle control and all of the digital outputs,
     i.e. you don't lose 4x outputs if you require stepper idle control.
 
-    • Serial output to the Ecu connector which can be switched between 3.3V-TTL level  or RS232 level for 
+    - Serial output to the Ecu connector which can be switched between 3.3V-TTL level  or RS232 level for 
     connecting external devices like dashes etc.
 
-    • Socket for a Crank/Cam VR conditioner allowing use of any brand of conditioner, not just the Max9926.
+    - Socket for a Crank/Cam VR conditioner allowing use of any brand of conditioner, not just the Max9926.
 
-    • Socket for a second VR conditioner on Digital Input 1 and 2 with switchable filtering, for use with 
+    - Socket for a second VR conditioner on Digital Input 1 and 2 with switchable filtering, for use with 
     VVT cam sensors or VR speed/ wheel speed sensors. 
 
-    • On board Map sensor can be either SMD MPXHZ6250 type sensor,  or MPX4250 through hole type sensor, 
+    - On board Map sensor can be either SMD MPXHZ6250 type sensor,  or MPX4250 through hole type sensor, 
     or a KiwiEFI vertical solder in board with a SMD sensor.
 
 
@@ -62,6 +62,7 @@ K88 Features
        	- 4x LED indicators for power supply voltages status
 	
 	- Internal datalogging to MicroSD card
+ 
 
 
 
