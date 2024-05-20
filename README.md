@@ -9,12 +9,12 @@ NOTE:	THESE FILES ARE FOR A ECU USING THE TEENSY3.5/3.6 MCU MODULE
 	FIRST PURCHASE THE TEENSTY MODULE!
 
 
-The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible in software configuration with the Speeduino Dropbear Ecu with a few important enhancements:
+The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible in software configuration with the Speeduino Dropbear Ecu with a few enhancements:
 
     • A 56-pin connector which allows the simultaneous use of stepper idle control and all of the digital outputs,
     i.e. you don't lose 4x outputs if you require stepper idle control.
 
-    • Serial output to the Ecu connector which can be switched between TTL level  or RS232 level for 
+    • Serial output to the Ecu connector which can be switched between 3.3V-TTL level  or RS232 level for 
     connecting external devices like dashes etc.
 
     • Socket for a Crank/Cam VR conditioner allowing use of any brand of conditioner, not just the Max9926.
