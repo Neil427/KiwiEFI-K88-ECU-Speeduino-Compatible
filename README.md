@@ -29,23 +29,23 @@ The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible 
  
 
 K88 Features
-       	8x high impedance injector drivers  (with diagnostic indicator LEDs)
-       	8x 5v/12v coil pre-drivers for use with igniters/smart coils  (with diagnostic indicator LEDs)
-       	2x low current outputs for Fuel Pump relay and Tach (with diagnostic indicator LEDs)..
-       	4x medium current outputs for Boost, Idle1, Idle2, Fan relay. 
-       	2x high current outputs for VVT solenoids;
-       	4x outputs dedicated to Stepper idle control (using optional DRV8825 board)
-       	7x analog inputs plus internal Barometric Pressure Sensor and Battery Voltage sense inputs
-       	4x digital inputs (2 with optional VR conditioner and filtering).
-       	CAN transceiver with termination jumper option 
-       	Serial Data with switch selection of 3.3V-TTL or RS232 voltage levels (with TXD indicator LED)
-       	Optional plug-in VR conditioner for Cam/Crank sensors,
-       	Onboard Hall type Crank/Cam sensor conditioning and isolation diodes
-       	Switch selectable filtering on Crank and Cam triggers,
-       	Diagnostic LEDs for CRANK, CAM, DI1 and DI2 inputs.
-       	Optional internal Map sensor or external sensor (we recommend external for faster response)
-       	4x LED indicators for power supply voltages status
-	Internal datalogging to MicroSD card
+       	- 8x high impedance injector drivers  (with diagnostic indicator LEDs)
+       	- 8x 5v/12v coil pre-drivers for use with igniters/smart coils  (with diagnostic indicator LEDs)
+       	- 2x low current outputs for Fuel Pump relay and Tach (with diagnostic indicator LEDs)..
+       	- 4x medium current outputs for Boost, Idle1, Idle2, Fan relay. 
+       	- 2x high current outputs for VVT solenoids;
+       	- 4x outputs dedicated to Stepper idle control (using optional DRV8825 board)
+       	- 7x analog inputs plus internal Barometric Pressure Sensor and Battery Voltage sense inputs
+       	- 4x digital inputs (2 with optional VR conditioner and filtering).
+       	- CAN transceiver with termination jumper option 
+       	- Serial Data with switch selection of 3.3V-TTL or RS232 voltage levels (with TXD indicator LED)
+       	- Optional plug-in VR conditioner for Cam/Crank sensors,
+       	- Onboard Hall type Crank/Cam sensor conditioning and isolation diodes
+       	- Switch selectable filtering on Crank and Cam triggers,
+       	- Diagnostic LEDs for CRANK, CAM, DI1 and DI2 inputs.
+       	- Optional internal Map sensor or external sensor (we recommend external for faster response)
+       	- 4x LED indicators for power supply voltages status
+	- Internal datalogging to MicroSD card
 
 
 
