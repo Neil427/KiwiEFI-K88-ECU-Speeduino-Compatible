@@ -35,6 +35,7 @@ IF YOU ARE GOING TO MAKE A K88 PLEASE NOTE:
 
 
 
+[
 
 The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible in software configuration with the Speeduino Dropbear Ecu with a few important enhancements:
 
@@ -70,6 +71,7 @@ K88 Features
        	4x LED indicators for power supply voltages status
 	Internal datalogging to MicroSD card
 
+]
 
 
 
