@@ -24,11 +24,11 @@ I will not be upgrading it to Teensy 4.1 however I have included all the Kicad d
 
 
 {
+
 IF YOU ARE GOING TO MAKE A K88 PLEASE NOTE:
-
 1- THE PNP FILE FOR THE K88 IS ONLY FOR THE TOP SIDE AND DOES NOT INCLUDE THE SWITCHES, 6x DIGITAL OUTPUT DRIVERS, LOADDUMP PROTECTION COMPONENTS, AND THE THROUGHHOLE COMPONENTS. I hand fitted these parts as they were not available at JLC.
-
 2- THE IGNINJ SUBBOARD AND MAP1 SUBBOARD HAVE NO PNP FILE as they were hand assembled.
+
 }
 
 
