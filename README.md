@@ -38,7 +38,7 @@ IF YOU ARE GOING TO MAKE A K88 PLEASE NOTE:
 
 The KiwiEFI K88 is a high speed Teensy 3.5 powered Ecu which is 100% compatible in software configuration with the Speeduino Dropbear Ecu with a few important enhancements:
 
-    - A 56-pin connector which allows the simultaneous use of stepper idle control and all of the digital outputs, 
+    - A 56-pin connector which allows the simultaneous use of stepper idle control and all digital outputs, 
     	i.e. you don't lose 4x outputs if you require stepper idle control.
 
     - Serial output to the Ecu connector which can be switched between TTL level  or RS232 level 
